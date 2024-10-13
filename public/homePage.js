@@ -111,5 +111,6 @@ const favoritesWidget = new FavoritesWidget();
       }
     });
   };
+  
 
 
